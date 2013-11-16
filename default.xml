@@ -137,7 +137,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" />
-<project path="external/libnfc-nci" name="CyanogenMod/android_external_libnfc-nci" remote="github" revision="cm-11.0" />
+  <project path="external/libnfc-nci" name="CyanogenMod/android_external_libnfc-nci" remote="github" revision="cm-11.0" />
   <project path="external/libnfc-nxp" name="CyanogenMod/android_external_libnfc-nxp" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" groups="pdk" />
   <project path="external/libogg" name="platform/external/libogg" />
@@ -374,5 +374,5 @@
   <project path="system/vold" name="AOSP-S4-KK/platform_system_vold" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="tools" />
-  <project path="vendor/samsung" name="AOSP-S4/android_vendor_samsung" remote="github" revision="kk-4.4" />
+  <project path="vendor/samsung" name="AOSP-S4-KK/android_vendor_samsung" remote="github" revision="kk-4.4" />
 </manifest>
