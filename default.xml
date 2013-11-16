@@ -257,7 +257,7 @@
   <project path="frameworks/volley" name="platform/frameworks/volley" />
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
-  <project path="kernel/samsung/jf" name="AOSP-S4-KK/platform_kernel_samsung_jf" remote="github" revision="kk-4.4" />
+  <project path="kernel/samsung/jf" name="AOSP-S4-KK/platform_kernel_samsung_jf" remote="github" revision="kk-4.4_new" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" remote="github" revision="cm-11.0" />
