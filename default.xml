@@ -20,13 +20,8 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts" />
   <project path="dalvik" name="AOSP-S4-KK/platform_dalvik" remote="github" revision="kk-4.4" />
-  <project path="developers/build" name="platform/developers/build" />
-  <project path="developers/demos" name="platform/developers/demos" />
-  <project path="developers/docs" name="platform/developers/docs" />
-  <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
-  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/samsung/jf-common" name="AOSP-S4-KK/platform_device_samsung_jf-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/jfltexx" name="AOSP-S4-KK/platform_device_samsung_jfltexx" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="AOSP-S4-KK/platform_device_samsung_msm8960-common" groups="pdk" remote="github" revision="kk-4.4" />
@@ -41,7 +36,6 @@
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/apache-qp" name="platform/external/apache-qp" />
   <project path="external/apache-xml" name="platform/external/apache-xml" />
-  <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
   <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" />
