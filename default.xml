@@ -38,7 +38,7 @@
   <project path="external/apache-xml" name="platform/external/apache-xml" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" groups="pdk" />
+  <project path="external/bluetooth/bluedroid" name="AOSP-S4-KK/platform_external_bluetooth_bluedroid" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm-11.0" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
