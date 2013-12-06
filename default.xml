@@ -3,7 +3,7 @@
 
   <remote name="aosp"
            fetch="https://android.googlesource.com/" />
-  <default revision="kitkat-mr1-release"
+  <default revision="refs/tags/android-4.4.1_r1"
            remote="aosp"
            sync-j="4" />
 
