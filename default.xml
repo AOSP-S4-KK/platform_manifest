@@ -222,8 +222,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="cm-11.0" />
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
- <!-- <project path="frameworks/av" name="AOSP-S4-KK/platform_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" /> -->
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" />
+  <project path="frameworks/av" name="AOSP-S4-KK/platform_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="frameworks/base" name="AOSP-S4-KK/platform_frameworks_base" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
@@ -365,12 +364,9 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/core" name="AOSP-S4-KK/platform_system_core" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/extras" name="AOSP-S4-KK/platform_system_extras" groups="pdk" remote="github" revision="kk-4.4" />
-<!--  <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="github" revision="cm-11.0" /> -->
-  <project path="system/media" name="platform/system/media" groups="pdk" />
-<!-- <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" remote="github" revision="cm-11.0" /> -->
-  <project path="system/netd" name="platform/system/netd" groups="pdk"  />
-<!--  <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" remote="github" revision="cm-11.0" /> -->
-  <project path="system/security" name="platform/system/security" groups="pdk" />
+  <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="github" revision="cm-11.0" />
+  <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" remote="github" revision="cm-11.0" />
+  <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" remote="github" revision="cm-11.0" /> 
   <project path="system/vold" name="AOSP-S4-KK/platform_system_vold" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
