@@ -227,7 +227,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="cm-11.0" />
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="Octo-Kat/platform_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="frameworks/av" name="AOSP-S4-Kk/platform_frameworks_av" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="frameworks/base" name="AOSP-S4-KK/platform_frameworks_base" remote="github" revision="kk-4.4" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
@@ -261,7 +261,7 @@
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" remote="github" revision="cm-11.0" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
-  <project path="hardware/libhardware" name="Octo-Kat/platform_hardware_libhardware" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="hardware/libhardware" name="AOSP-S4-KK/platform_hardware_libhardware" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="hardware/libhardware_legacy" name="AOSP-S4-KK/platform_hardware_libhardware_legacy" groups="pdk"  remote="github" revision="kk-4.4" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/audio" name="AOSP-S4-KK/platform_hardware_qcom_audio" groups="qcom" remote="github" revision="kk-4.4" />
