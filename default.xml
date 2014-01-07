@@ -265,7 +265,7 @@
   <project path="hardware/libhardware_legacy" name="AOSP-S4-KK/platform_hardware_libhardware_legacy" groups="pdk"  remote="github" revision="kk-4.4" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/audio" name="AOSP-S4-KK/platform_hardware_qcom_audio" groups="qcom" remote="github" revision="kk-4.4" />
-  <project path="hardware/qcom/audio-caf" name="omnirom/android_hardware_qcom_audio-caf" groups="qcom" remote="github" revision="android-4.4" />
+  <project path="hardware/qcom/audio-caf" name="AOSP-S4-KK/platform_hardware_qcom_audio-caf" groups="qcom" remote="github" revision="kk-4.4" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" groups="qcom" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" groups="qcom" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/display" name="AOSP-S4-KK/platform_hardware_qcom_display" groups="qcom" remote="github" revision="kk-4.4" />
