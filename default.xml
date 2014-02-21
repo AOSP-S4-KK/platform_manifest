@@ -23,7 +23,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/samsung/jf-common" name="AOSP-S4-KK/platform_device_samsung_jf-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/jfltexx" name="AOSP-S4-KK/platform_device_samsung_jfltexx" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltevzw" name="Octo-Kat/platform_device_samsung_jflte" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/jflte" name="Octo-Kat/platform_device_samsung_jflte" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="vendor/brood" name="treken/vendor_brood" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="AOSP-S4-KK/platform_device_samsung_msm8960-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/qcom-common" name="AOSP-S4-KK/platform_device_samsung_qcom-common" groups="pdk" remote="github" revision="kk-4.4" />
@@ -194,7 +194,7 @@
   <project path="external/s4utils" name="broodplank/android_external_s4utils" remote="github" revision="master" />
   <project path="external/smack" name="platform/external/smack" />
   <project path="external/smali" name="platform/external/smali" />
-  <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
+  <project path="external/sonivox" name="platfojrm/external/sonivox" groups="pdk" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" />
   <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" />
   <project path="external/srec" name="platform/external/srec" />
