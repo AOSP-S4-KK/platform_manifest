@@ -23,15 +23,8 @@
   <project path="device/common" name="device/common" />
   <project path="device/samsung/jf-common" name="AOSP-S4-KK/platform_device_samsung_jf-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/jfltexx" name="AOSP-S4-KK/platform_device_samsung_jfltexx" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltevzw" name="Octo-Kat/platform_device_samsung_jfltevzw" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltespr" name="Octo-Kat/platform_device_samsung_jfltespr" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jflteusc" name="Octo-Kat/platform_device_samsung_jflteusc" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltecri" name="Octo-Kat/platform_device_samsung_jfltecri" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltecsp" name="Octo-Kat/platform_device_samsung_jfltecsp" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltecan" name="Octo-Kat/platform_device_samsung_jfltecan" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jflteatt" name="Octo-Kat/platform_device_samsung_jflteatt" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="device/samsung/jfltetmo" name="Octo-Kat/platform_device_samsung_jfltetmo" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="vendor/brood" name="treken/vendor_brood" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/jflte" name="Octo-Kat/platform_device_samsung_jflte" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="vendor/oct" name="Octo-Kat/vendor_oct" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="AOSP-S4-KK/platform_device_samsung_msm8960-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/qcom-common" name="AOSP-S4-KK/platform_device_samsung_qcom-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -312,7 +305,7 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="AOSP-S4-KK/platform_packages_apps_settings" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/Settings" name="RedefinedClank/platform_packages_apps_settings" remote="github" revision="kk-4.4" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
