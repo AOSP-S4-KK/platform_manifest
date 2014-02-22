@@ -24,7 +24,7 @@
   <project path="device/samsung/jf-common" name="AOSP-S4-KK/platform_device_samsung_jf-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/jfltexx" name="AOSP-S4-KK/platform_device_samsung_jfltexx" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/jflte" name="Octo-Kat/platform_device_samsung_jflte" groups="pdk" remote="github" revision="kk-4.4" />
-  <project path="vendor/brood" name="treken/vendor_brood" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="vendor/oct" name="Octo-Kat/vendor_oct" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="AOSP-S4-KK/platform_device_samsung_msm8960-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/qcom-common" name="AOSP-S4-KK/platform_device_samsung_qcom-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
