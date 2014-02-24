@@ -22,6 +22,7 @@
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/samsung/jflte" name="AOSP-S4-KK/platform_device_samsung_jflte" groups="pdk" remote="github" revision="kk-4.4" />
+  <project path="device/samsung/hlte" name="AOSP-S4-KK/platform_device_samsung_hlte" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="AOSP-S4-KK/platform_device_samsung_msm8960-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/samsung/qcom-common" name="AOSP-S4-KK/platform_device_samsung_qcom-common" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="device/qcom/common" name="AOSP-S4-KK/platform_device_qcom_common" groups="pdk" remote="github" revision="kk-4.4" />
@@ -249,6 +250,7 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
   <project path="kernel/samsung/jf" name="AOSP-S4-KK/platform_kernel_samsung_jf" remote="github" revision="kk-4.4_new" />
+  <project path="kernel/samsung/hlte" name="AOSP-S4-KK/platform_kernel_samsung_hlte" remote="github" revision="kk-4.4" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" remote="github" revision="cm-11.0" />
