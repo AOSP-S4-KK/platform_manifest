@@ -94,6 +94,7 @@
   <project path="external/freetype" name="platform/external/freetype" groups="pdk" />
   <project path="external/fsck_msdos" name="AOSP-S4-KK/platform_external_fsck_msdos" remote="github" revision="kk-4.4" />
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" remote="github" revision="cm-11.0" />
+  <project path="external/f2fs-tools" name="AOSP-S4-KK/platform_external_f2fs-tools" remote="github" revision="kk-4.4" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" />
   <project path="external/genext2fs" name="platform/external/genext2fs" />
