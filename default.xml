@@ -350,6 +350,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.7" name="Octo-Kat/Linaro_47x_toolchain" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.8" name="AOSP-S4-KK/platform_prebuilts_gcc_linux-x86_arm_linaro_arm_gnuabihf-4.8" remote="github" revision="kk-4.4" />
+  <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.9" name="AOSP-S4-KK/platform_prebuilts_gcc_linux-x86_arm_linaro_arm_gnuabihf-4.9" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="Octo-Kat/platform_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" groups="pdk, linux, arm" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="pdk,linux" />
