@@ -295,7 +295,8 @@
   <project path="packages/apps/Dialer" name="AOSP-S4-KK/platform_packages_apps_Dialer" remote="github" revision="kk-4.4" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
+  <project path="packages/apps/Gallery2" name="AOSP-S4-KK/platform_packages_apps_Gallery2" remote="github" revision="kk-4.4" />
+  <project path="packages/apps/GappsInstaller" name="AOSP-S4-KK/platform_packages_apps_GappsInstaller" remote="github" revision="kk-4.4" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
@@ -349,6 +350,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.7" name="Octo-Kat/Linaro_47x_toolchain" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.8" name="AOSP-S4-KK/platform_prebuilts_gcc_linux-x86_arm_linaro_arm_gnuabihf-4.8" remote="github" revision="kk-4.4" />
+  <project path="prebuilts/gcc/linux-x86/arm/Linaro-4.9" name="AOSP-S4-KK/platform_prebuilts_gcc_linux-x86_arm_linaro_arm_gnuabihf-4.9" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="Octo-Kat/platform_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" groups="pdk, linux, arm" remote="github" revision="kk-4.4" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="pdk,linux" />
@@ -375,3 +377,4 @@
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
   <project path="vendor/samsung" name="AOSP-S4-KK/android_vendor_samsung" remote="github" revision="kk-4.4" />
 </manifest>
+
