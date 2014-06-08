@@ -375,7 +375,7 @@
   <project path="system/core" name="AOSP-S4-KK/platform_system_core" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/extras" name="AOSP-S4-KK/platform_system_extras" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="github" revision="cm-11.0" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" />
+  <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="system/security" name="CyanogenMod/android_system_security" groups="pdk" remote="github" revision="cm-11.0" /> 
   <project path="system/vold" name="AOSP-S4-KK/platform_system_vold" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="pdk" remote="github" revision="cm-11.0" />
