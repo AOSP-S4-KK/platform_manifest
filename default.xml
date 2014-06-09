@@ -380,5 +380,5 @@
   <project path="system/vold" name="AOSP-S4-KK/platform_system_vold" groups="pdk" remote="github" revision="kk-4.4" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="pdk" remote="github" revision="cm-11.0" />
   <project path="tools/external/fat32lib" name="platform/tools/external/fat32lib" groups="tools" />
-  <project path="vendor/samsung" name="AOSP-S4-KK/android_vendor_samsung" remote="github" revision="kk-4.4" />
+  <project path="vendor/samsung" name="AOSP-S4-KK/platform_vendor_samsung" remote="github" revision="kk-4.4" />
 </manifest>
