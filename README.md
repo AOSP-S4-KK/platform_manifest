@@ -1,4 +1,4 @@
-AOSP 4.4.2 KitKat for Galaxy S4
+AOSP 4.4.4 KitKat for Galaxy S4
 =============================
 
 Current status: PreFinal Releases
